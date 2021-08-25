@@ -1,0 +1,9 @@
+figures/**/*
+jpg/*.jpg
+mnist/**
+saved/**
+.idea/
+image_labels.mat
+102flowers.tgz
+venv/
+__pycache__/
